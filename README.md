@@ -1,4 +1,4 @@
-![object_detector](https://github.com/user-attachments/assets/dacaf091-72ad-4bd4-9555-30d334446c30)# Object Detection App
+# Object Detection App
 ![object_detector](https://github.com/user-attachments/assets/ca285a8e-0d03-4ffd-8bca-a4bd2c64c56d)
 
 
